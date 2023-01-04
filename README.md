@@ -1,2 +1,2 @@
-# alien_invasion_project
-alien_invasion_project
+# alien-invasion-project
+alien-invasion-project
